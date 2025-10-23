@@ -6,6 +6,7 @@ int main()
 {
 
   float celsius, fahrenheit;
+  int test;
 
   printf("enter temperature in celsius");
   scanf("%f", &celsius);
